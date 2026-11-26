@@ -3,7 +3,7 @@
 - **Mã đề:** 05
 - **Họ tên:** Đỗ Duy Thành
 - **Lớp:** CNTT2
-- **Link repository Pha1:**
+- **Link repository Pha1:**https://github.com/ZaxDontCare/-CNTT2-_PromptAI_H02
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
